@@ -1,4 +1,5 @@
-# Project T1 Introduction
+# Project T1 & T2 Introduction
+T1 Introduction
 Nowadays,too many restaurants and supermarkets throw away safe and edible food at closing time causing environmental pollution and food waste .At the same time, many individuals are facing food insecurity .To help the situation , we hope to design a system to help the vulnerable groups. Additionally ,we are willing to practise the contents of OOP that we learned from class including object ,inheritance，encapsulation,etc. 
 
 Function
