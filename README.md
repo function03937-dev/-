@@ -1,3 +1,4 @@
+Intro video link：https://github.com/function03937-dev/-/blob/2ae84d0a5a43c81cd9bb03e2d86bcad0684afd50/T1%20Intro.mp4
 # FoodBridge Rescue Project
 
 ## How to Run This Program:
